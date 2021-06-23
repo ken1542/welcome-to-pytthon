@@ -16,4 +16,7 @@ else:
                   else:
                       grade="Y"
                       print("mark=",n,"grade",grade)
+			else:
+				print("retake the exam")
+                    # This python code prints the students grade after checking the necessary conditions.
         
